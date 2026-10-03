@@ -36,15 +36,12 @@
 * **Enabling Solopreneurship:** Autonomous AI workflows allow individuals to run complex, multi-faceted business operations by managing virtual teams of specialized AI agents.
 
 
-
-
-
 ## Main Topic - 02/10/2026
 * OpenAI's cancellation of the public release for its upcoming AI model, GPT-6.1 Astra, due to safety standard failures during internal testing.
 
 ## Complete Summary
 
-* **Background & Model Capabilities**
+**Background & Model Capabilities**
 * OpenAI canceled the planned October release of GPT-6.1 Astra for ChatGPT Codex.
 * The model was designed to perform complex tasks autonomously without human intervention, specifically excelling in writing, web browsing, and using apps to complete assignments. 
 
