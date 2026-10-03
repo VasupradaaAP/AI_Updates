@@ -1,6 +1,6 @@
 # AI_Updates
 
-## Main Topic - 03/10/2026
+## Main Topic - 02/10/2026
 * An introduction to OpenAI's proactive AI agent concept, **Dots**, and how autonomous AI agents can assist solopreneurs and streamline everyday workflows.
 
 ## Complete Summary
@@ -36,7 +36,7 @@
 * **Enabling Solopreneurship:** Autonomous AI workflows allow individuals to run complex, multi-faceted business operations by managing virtual teams of specialized AI agents.
 
 
-## Main Topic - 02/10/2026
+## Main Topic - 01/10/2026
 * OpenAI's cancellation of the public release for its upcoming AI model, GPT-6.1 Astra, due to safety standard failures during internal testing.
 
 ## Complete Summary
