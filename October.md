@@ -4,19 +4,19 @@
 
 ## Complete Summary
 
-* **Overview and Core Functionality**
+**Overview and Core Functionality**
 * Gemini 4 Argon is introduced as a frontier AI model capable of breaking down complex, end-to-end tasks into multiple sequential stages.
 * Handles a wide range of multimodal and analytical workloads, including software development, financial research, legal drafting, data analysis, visual charts, and long-form video comprehension.
 
-* **Key Benchmarks & Performance Metrics**
+**Key Benchmarks & Performance Metrics**
 * **Software Engineering (DeepSWE Benchmark):** Achieved **77.9%**, outperforming competing models like Claude 3.5 Sonnet (59.1%) and GPT-4o (63.4%).
 * **End-to-End Business Automation:** Scored **51.3%** on general automation benchmarks, placing first over Claude Opus 5.5 (42.5%) and GPT-6 Astra (41.4%).
 * **Cybersecurity & Vulnerability Management (CWE Benchmark):** Achieved **68.9%** in identifying, verifying, and fixing software security vulnerabilities.
 
-* **Architectural Upgrades**
+**Architectural Upgrades**
 * **Expanded Output Context:** Output generation capability increased from 64,000 tokens up to **1 million tokens**, providing space for complex reasoning and generating detailed end-to-end solutions.
 
-* **Deployment Strategy & Availability**
+**Deployment Strategy & Availability**
 * **Initial Access:** Currently restricted to trusted cyber defenders and security partners for safety evaluation.
 * **Future Rollout:** Broader access planned following safety testing for paid API subscribers and Google AI Ultra tier members.
 
