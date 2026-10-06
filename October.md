@@ -1,3 +1,33 @@
+## MAIN TOPIC - 05/10/2026
+* Tavus's new AI model, "Griffin," designed for real-time, face-to-face video call interactions.
+
+## Complete Summary
+**Introduction to Real-Time AI Video Calls**
+* AI models can now synthesize photorealistic facial avatars, voices, and facial expressions in real time during video calls.
+* Users can interrupt the AI dynamically during conversation, and it will adjust and react instantly.
+
+**Overview of Tavus's Griffin Model**
+* Developed by Tavus, Griffin is categorized as a Human Interaction Model (HIM) designed for real-time, face-to-face engagement.
+* Unlike standard audio models, Griffin evaluates voice tone, facial expressions, conversational pauses, and visual camera cues to determine when to speak, pause, or react.
+
+**Practical Applications & Use Cases**
+* **Customer Support:**
+* Enables users to show issues directly on camera (e.g., pointing a camera at a malfunctioning Wi-Fi router to show blinking status lights).
+* The AI agent provides real-time, step-by-step visual troubleshooting, reducing the need for physical technician visits for minor issues.
+
+**Interview Preparation:**
+* Acts as a practice partner for job candidates, providing conversational rehearsal opportunities to build confidence before live interviews.
+
+**Current Availability & Future Potential**
+* Tavus Griffin (specifically Griffin-Lite) is currently restricted to selected testers under a limited research preview.
+* Highlights a shift toward direct video call interactions with AI agents instead of text-based prompts.
+
+
+## Key Takeaways
+**Multimodal AI Interaction:** AI communication is shifting from text and voice to full-featured video calls that process visual context and non-verbal conversational cues in real time.
+**Enhanced Practical Utility:** Video-capable AI enables hands-free troubleshooting for technical support and adaptive conversational practice for interview coaching.
+**Early-Stage Development:** Tavus's Griffin model remains in a limited research preview, though it points toward a future where user interaction occurs via conversational video rather than typing.
+
 ## MAIN TOPIC - 03/10/2026
 
 * Capabilities and performance benchmarks of Google’s **Gemini 4 Argon** frontier AI model, designed for complex, multi-step agentic workflows and cybersecurity operations.
